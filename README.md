@@ -1,6 +1,6 @@
 # Portfolio of Mayank Kumar Rai
 
-<img src ="https://github.com/CodeVinayak/CodeVinayak/blob/5920a79f4c5977332a67caf91125241cf0fc46b5/www.mayankkumarrai.in.png" />
+<img src ="[https://github.com/CodeVinayak/CodeVinayak/blob/5920a79f4c5977332a67caf91125241cf0fc46b5/www.mayankkumarrai.in.png](https://github.com/mayankrai2000/Mayank-s-Portfolio/blob/main/mayankkumarraiportfolio.png)" />
  
 This project was created with CRA (Create React App)
 
